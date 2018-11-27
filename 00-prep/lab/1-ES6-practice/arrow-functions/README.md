@@ -22,3 +22,5 @@ Why does this happen? Arrow functions do not bind "this", so the context of "thi
 ## Additional resources for arrow functions
 
 - ["Javascript Arrow Functions" by Wes Bos](https://wesbos.com/arrow-functions/)
+
+help from Gwen, Nate, and Mike F. 
